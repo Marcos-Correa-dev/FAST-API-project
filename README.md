@@ -57,7 +57,7 @@ Você pode testar os endpoints diretamente por essa interface.
    - Host: `localhost`
    - Porta: `5432`
    - Usuário: `postgres`
-   - Senha: `admin@1212`
+   - Senha: `admin@1212` ou `postegres ` ou `senha no qual você criopu` 
    - Banco de dados: `quizapplication`
 5. Clique em **Test Connection** e depois em **OK**.
 
